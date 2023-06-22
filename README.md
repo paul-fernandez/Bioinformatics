@@ -59,7 +59,7 @@ Produces dot plots for comparing sequences post alignment
 
 - [Dotmatcher](https://www.bioinformatics.nl/cgi-bin/emboss/dotmatcher)
 
-##### Genome Comparison
+#### Genome Comparison
 - [CoGe: SynMap](https://genomevolution.org/CoGe/SynMap.pl )
 
 - [CoGe: SynMap3D](https://genomevolution.org/coge/SynMap3D.pl) 
