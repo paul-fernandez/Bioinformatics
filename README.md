@@ -19,12 +19,12 @@
 
 [The European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/) | Fundamental database with bioinformatic databases and tools
 
-[RegulonDB Database](https://regulondb.ccg.unam.mx/ ) | Curated database on transcriptional regulation in Escherichia coli K-12
+[RegulonDB Database](https://regulondb.ccg.unam.mx/ ) | Curated database on transcriptional regulation in *Escherichia coli* K-12
 
 [Bionumbers](https://bionumbers.hms.harvard.edu/search.aspx) | Describes useful number values in biology
 
 [BioCyc](https://biocyc.org) | Collection of pathway & genomic databases for model organisms
-   - [EcoCyc](https://ecocyc.org/) | Curated database on genome, transcriptional regulation transporters & metabolic pathways in Escherichia coli K-12 MG1655
+   - [EcoCyc](https://ecocyc.org/) | Curated database on genome, transcriptional regulation transporters & metabolic pathways in *Escherichia coli* K-12 MG1655
 
 [Aging Circadian Database](https://circaage.shinyapps.io/circaage/) | Contains circadian gene expression data data from various ages and tissues
 
