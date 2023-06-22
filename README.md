@@ -34,6 +34,12 @@
 
 - [circBase](http://www.circbase.org/) | Circular RNA database
 
+- [SGD](https://www.yeastgenome.org/) | Comprehensive database on *Saccharomyces cerevisiae*
+
+- [TAIR](https://www.arabidopsis.org/) | Contains data relevant to *Arabidopsis thaliana*
+
+- [Atlas of Macromolecules](https://www.bioinformatics.org/molvis/atlas/atlas.htm) | Database containing data on about 160 macromolecules
+
 - [circBank](http://www.circbank.cn/index.html ) | Circular RNA database
 
 ## Webtool Platforms
@@ -41,14 +47,31 @@ Suites of bioinformatic tools
 
 - [CoGe](https://genomevolution.org/coge/) 
 
-- [Quick2D | Bioinformatics Toolkit](https://toolkit.tuebingen.mpg.de/) 
+- [MPI Bioinformatics Toolkit](https://toolkit.tuebingen.mpg.de/) 
 
 - [Softberry](http://www.softberry.com/)  
 
+- [Elixir Bio.tools](https://bio.tools/t)
 
-## Multiple Sequence Alignment Tools
+- [Sequence Manipulation Suite (SMS)](http://www.bioinformatics.org/sms2/index.html)
+
+- [SeWeR](https://www.bioinformatics.org/sewer/)
+
+- [Prabi](https://npsa-prabi.ibcp.fr/cgi-bin/npsa_automat.pl?page=/NPSA/npsa_server.html)
+
+## Sequence Alignment Tools
 Positions various sequences with similar portions in line with one another to observe possible homology
 
+### Two Sequence Alignment Tools
+- [Pairwise Align DNA](http://www.bioinformatics.org/sms2/pairwise_align_dna.html)
+
+- [Pairwise Align Protein](http://www.bioinformatics.org/sms2/pairwise_align_protein.html)
+
+- [PIR Pairwise Alignment](https://proteininformationresource.org/pirwww/search/pairwise.shtml)
+
+- [LALIGN](https://www.ebi.ac.uk/Tools/psa/lalign/)
+
+### Multiple Sequence Alignment Tools
 - [Clustal Omega](https://www.ebi.ac.uk/Tools/msa/clustalo/ ) 
 
 - [MultAlin](http://multalin.toulouse.inra.fr/multalin/cgi-bin/multalin.pl ) 
@@ -57,7 +80,7 @@ Positions various sequences with similar portions in line with one another to ob
 
 - [EMBL-EBI MSA Tools](https://www.ebi.ac.uk/Tools/msa/)
 
-- [Pairwise Align DNA](http://www.bioinformatics.org/sms2/pairwise_align_dna.html ) 
+- [MSAReveal](https://www.bioinformatics.org/msareveal/index2.html)
 
 ## Dotplot Generators
 Produces dot plots for comparing sequences post alignment
@@ -68,7 +91,7 @@ Produces dot plots for comparing sequences post alignment
 
 - [Dotmatcher](https://www.bioinformatics.nl/cgi-bin/emboss/dotmatcher)
 
-Genome Comparison:
+### Genome Comparison
 - [CoGe: SynMap](https://genomevolution.org/CoGe/SynMap.pl )
 
 - [CoGe: SynMap3D](https://genomevolution.org/coge/SynMap3D.pl) 
@@ -88,12 +111,16 @@ Specialized tools for scanning sequences against knowledgebase and specific func
 
 - [Ribovore](https://github.com/ncbi/ribovore) | A collection of tools for subunit RNA detection
 
+- [PeCoP](https://www.bioinformatics.org/pecop/) | A PSI-BLAST tool for finding persistently conserved positions
+
 - [TargetScanHuman 8.0](https://www.targetscan.org/vert_80/ ) | Searches for predicted micro RNA targets in mammals
 
 ## Sequence Visualization & Editing
 - [WebLogo About](https://weblogo.berkeley.edu/ ) | Generates sequence logos
 
 - [Benchling](https://benchling.com/editor ) | Platform for conducting biotechnology research allowing for easy gene annotation, visualization, and more.
+
+- [Savvy Plasmid Map](https://www.bioinformatics.org/savvy/)
 
 - [NUPACK](https://old.nupack.org/ ) | Webserver for analyzing nucleic acid structures
 
@@ -165,11 +192,15 @@ Relevant Databases:
 - [RCSB PDB](https://www.rcsb.org/)
 
 
-## Cloning Tools
+## Primer Development
 - [Primer3Plus](https://www.bioinformatics.nl/cgi-bin/primer3plus/primer3plus.cgi) | Uses Primer3 software to produces primers to detect a given sequence
 
 - [Primer3](https://bioinfo.ut.ee/primer3/) | Original software for generating primers for sequences
 
+- [PrimerX](https://www.bioinformatics.org/primerx/)
+
+
+## Restriction Enzymatic Tools
 - [NEB List of Recognition Specificities](https://www.neb.com/tools-and-resources/selection-charts/alphabetized-list-of-recognition-specificities) | Endonuclease recognition sequences and associated enzyme
 
 - [NEBcutter V2.0](http://nc2.neb.com/NEBcutter2/ ) | Identify cut sites for a DNA sequence
@@ -178,6 +209,18 @@ Relevant Databases:
 - [Seed Viewer](https://pubseed.theseed.org/?page=OrganismSelect) | Curated genomic data for comparative genomics
 
 - [JGI GOLD](https://gold.jgi.doe.gov/) | Genomic database
+
+- [IslandViewer 4](https://www.pathogenomics.sfu.ca/islandviewer/)
+
+- [UCSC Genome Browser](http://genome.ucsc.edu/cgi-bin/hgGateway)
+
+- [Ensembl](http://useast.ensembl.org/index.html)
+
+- [Ensembl Bacteria](http://bacteria.ensembl.org/index.html)
+
+- [UCSC Archaeal Genome Browser](http://archaea.ucsc.edu/)
+
+- [Pseudomonas Genome DB](https://www.pseudomonas.com/)
 
 - [MicroScope: MAGE](https://mage.genoscope.cns.fr/microscope/home/index.php ) | Microbial Genome Annotation & Analysis Platform
 
