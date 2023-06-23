@@ -158,38 +158,39 @@ Relevant Databases:
 
 - [COXPRESdb](https://coxpresdb.jp/) | Database with information concerning co-regulated gene relationships
 
+
 ## Structure Visualization
 Group of tools for producing 2D & 3D structural data
 
-- [Swiss-Model](https://swissmodel.expasy.org/interactive)
+- [Swiss-Model](https://swissmodel.expasy.org/interactive) | 3D protein modeling with similar experimental and predicted models
 
 - [Protter interactive protein feature visualization](https://wlab.ethz.ch/protter/start/) | 2D protein visualizing tool of polypeptide sequence and predicted cellular location
 
 - [iCn3D: Web-based 3D Structure Viewer](https://www.ncbi.nlm.nih.gov/Structure/icn3d/full.html) | Loads PDB files and generates 3D structures 
 
-- [Cn3D](https://www.ncbi.nlm.nih.gov/Structure/CN3D/cn3d.shtml)
+- [Cn3D](https://www.ncbi.nlm.nih.gov/Structure/CN3D/cn3d.shtml) | 3D structure viewer
 
 - [TM-align](https://zhanggroup.org//TM-align/) | Algorithm for superpositioning two protein structures using residue-residue alignment
 
 - [US-align](https://zhanggroup.org/US-align/) | Extended from TM-align and compares 3D structures (proteins, RNA, & DNA) 
 
-- [I-TASSER](https://zhanggroup.org/I-TASSER/)
+- [I-TASSER](https://zhanggroup.org/I-TASSER/) | Agorithm to predict protein structures using a hierarchical approach
 
 - [RNAstructure](https://rna.urmc.rochester.edu/RNAstructureWeb/) | Contains tools for RNA secondary structure prediction
 
-- [Phyre2](http://www.sbg.bio.ic.ac.uk/~phyre2/html/page.cgi?id=index)
+- [Phyre2](http://www.sbg.bio.ic.ac.uk/~phyre2/html/page.cgi?id=index) | Simple modeling software that allows for one-to-one threading
 
-- [Rasmol](http://www.openrasmol.org/)
+- [Rasmol](http://www.openrasmol.org/) | Program for molecular model visualization
 
-- [Swiss-PDB Viewer](https://spdbv.unil.ch/)
+- [Swiss-PDB Viewer](https://spdbv.unil.ch/) | Viewing software for analyzising several protein structures at once
 
-- [GRASP](http://honig.c2b2.columbia.edu/grasp)
+- [GRASP](http://honig.c2b2.columbia.edu/grasp) | Macromolecule visualization tool
 
-- [UCSF Chimera](http://www.cgl.ucsf.edu/chimera/)
+- [UCSF Chimera](http://www.cgl.ucsf.edu/chimera/) | Program for visualization of molecular structures
 
-- [Jmol](https://jmol.sourceforge.net/)
+- [Jmol](https://jmol.sourceforge.net/) | Viewer for 3D chemical structures
 
-- [Jpred4](http://www.compbio.dundee.ac.uk/jpred4/index.html)
+- [Jpred4](http://www.compbio.dundee.ac.uk/jpred4/index.html) | Protein secondary structure predictor
 
 - [Protein Secondary Structure Tools](https://molbiol-tools.ca/Protein_secondary_structure.htm) | Group of programs for predicting protein secondary structure
 
@@ -206,7 +207,7 @@ Relevant Databases:
 
 - [Primer3](https://bioinfo.ut.ee/primer3/) | Original software for generating primers for sequences
 
-- [PrimerX](https://www.bioinformatics.org/primerx/)
+- [PrimerX](https://www.bioinformatics.org/primerx/) | Automates design of mutagenic PCR primers
 
 
 ## Restriction Enzymatic Tools
@@ -281,6 +282,8 @@ Useful tools for converting different between different filetypes
 - [RNAComposer](https://rnacomposer.cs.put.poznan.pl/tools;jsessionid=945AA52BC80AD4C9A009D898D83F51CB ) | Converts RNA structure files between different formats
 
 - [EMBOSS Seqret](https://www.ebi.ac.uk/Tools/sfc/emboss_seqret/)
+
+
 
 ## Forums
 Helpful Forums for bioinformatics discussion
