@@ -75,6 +75,8 @@ Webtools
 Local Software
 - [UGene](http://ugene.net/)
 
+- [Jalview](https://www.jalview.org/)
+
 ## Sequence Alignment Tools
 Positions various sequences with similar portions in line with one another to observe possible homology
 
@@ -295,6 +297,8 @@ Useful tools for converting different between different filetypes
 
 - [EMBOSS Seqret](https://www.ebi.ac.uk/Tools/sfc/emboss_seqret/) | Tool for reformatting sequence filetypes
 
+
+
 ## Forums
 Helpful Forums for bioinformatics discussion
 
@@ -309,6 +313,7 @@ Helpful Forums for bioinformatics discussion
 - [OmicsForum](https://omicsforum.ca/ ) | Community for various analysis tools related to metabolomics, metagenomics, proteomics, and more
 
 - [QIIME2 Forum](https://forum.qiime2.org/) | Forum for the QIIME2 platform
+
 
 ## Old/Decommissioned Databases & Tools
 
