@@ -95,7 +95,7 @@ Positions various sequences with similar portions in line with one another to ob
 - [MSAReveal](https://www.bioinformatics.org/msareveal/index2.html)
 
 ## Dotplot Generators
-Produces dot plots for comparing sequences post alignment
+Produces dot plots for comparing sequences
 
 - [Dotlet JS](https://dotlet.vital-it.ch/ ) 
 
