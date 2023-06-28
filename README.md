@@ -1,6 +1,7 @@
 # Bioinformatic Tool Compendium (BTC)
 
 ## Databases
+
 Fundamentals
 
 - [National Center for Biotechnology Information (NCBI)](https://www.ncbi.nlm.nih.gov/) | Gargantuan database of biomedical and genomic information & tools
@@ -21,22 +22,10 @@ Fundamentals
 
 - [BioCyc](https://biocyc.org) | Collection of pathway & genomic databases for model organisms
 
-General
-
-- [Genomic tRNA Database](http://lowelab.ucsc.edu/GtRNAdb/) | Database of automated annotated tRNA gene predictions using tRNAscan-SE
-
-- [Regprecise](https://regprecise.lbl.gov/index.jsp ) | Contains curated and propagated predictions for regulons in prokaryotic genomes
-
-- [Atlas of Macromolecules](https://www.bioinformatics.org/molvis/atlas/atlas.htm) | Database containing data on about 160 macromolecules
-
-- [Bionumbers](https://bionumbers.hms.harvard.edu/search.aspx) | Describes useful number values in biology
-
 Aging
 - [Aging Circadian Database](https://circaage.shinyapps.io/circaage/) | Contains circadian gene expression data data from various ages and tissues
 
-- [Aging Atlas](https://ngdc.cncb.ac.cn/aging/index)
-
-- [Database Commons](https://ngdc.cncb.ac.cn/databasecommons/) | Curated catalog of biological databases
+- [Aging Atlas](https://ngdc.cncb.ac.cn/aging/index) | Collection of gene expression data related to the aging process
 
 circRNAs
 - [circBase](http://www.circbase.org/) | Circular RNA database
@@ -51,6 +40,19 @@ Species Specific
 - [EcoCyc](https://ecocyc.org/) | Curated database on genome, transcriptional regulation transporters & metabolic pathways in *Escherichia coli* K-12 MG1655
 
 - [RegulonDB Database](https://regulondb.ccg.unam.mx/ ) | Curated database on transcriptional regulation in *Escherichia coli* K-12
+
+Miscellaneous
+- [JGI GOLD](https://gold.jgi.doe.gov/) | Collection of metagenomic and genomic data
+
+- [Genomic tRNA Database](http://lowelab.ucsc.edu/GtRNAdb/) | Database of automated annotated tRNA gene predictions using tRNAscan-SE
+
+- [Regprecise](https://regprecise.lbl.gov/index.jsp ) | Contains curated and propagated predictions for regulons in prokaryotic genomes
+
+- [Atlas of Macromolecules](https://www.bioinformatics.org/molvis/atlas/atlas.htm) | Database containing data on about 160 macromolecules
+
+- [Bionumbers](https://bionumbers.hms.harvard.edu/search.aspx) | Describes useful number values in biology
+
+- [Database Commons](https://ngdc.cncb.ac.cn/databasecommons/) | Curated catalog of biological databases
 
 ## Webtool Platforms
 Suites of bioinformatic tools
@@ -130,7 +132,7 @@ Specialized tools for scanning sequences against knowledgebase and specific func
 
 - [Benchling](https://benchling.com/editor ) | Platform for conducting biotechnology research allowing for easy gene annotation, visualization, and more.
 
-- [Savvy Plasmid Map](https://www.bioinformatics.org/savvy/)
+- [Savvy](https://www.bioinformatics.org/savvy/) | Website for producing annotated plasmid maps
 
 - [NUPACK](https://old.nupack.org/ ) | Webserver for analyzing nucleic acid structures
 
@@ -178,6 +180,8 @@ Group of tools for producing 2D & 3D structural data
 
 - [RNAstructure](https://rna.urmc.rochester.edu/RNAstructureWeb/) | Contains tools for RNA secondary structure prediction
 
+- [PDB2PQR](https://server.poissonboltzmann.org/pdb2pqr) | Visualize electrostatic potential of a 3D protein
+
 - [Phyre2](http://www.sbg.bio.ic.ac.uk/~phyre2/html/page.cgi?id=index) | Simple modeling software that allows for one-to-one threading
 
 - [Rasmol](http://www.openrasmol.org/) | Program for molecular model visualization
@@ -188,11 +192,15 @@ Group of tools for producing 2D & 3D structural data
 
 - [UCSF Chimera](http://www.cgl.ucsf.edu/chimera/) | Program for visualization of molecular structures
 
+- [Pymol](https://pymol.org/2/) | Software for displaying and modifying macromolecules
+
 - [Jmol](https://jmol.sourceforge.net/) | Viewer for 3D chemical structures
 
 - [Jpred4](http://www.compbio.dundee.ac.uk/jpred4/index.html) | Protein secondary structure predictor
 
 - [Protein Secondary Structure Tools](https://molbiol-tools.ca/Protein_secondary_structure.htm) | Group of programs for predicting protein secondary structure
+
+- [Molecular Graphics Software](https://www.rcsb.org/docs/additional-resources/molecular-graphics-software) | List of resources for visualizing macromolecules and interactions
 
 Relevant Databases:
 - [Alphafold](https://alphafold.ebi.ac.uk/)
@@ -218,26 +226,26 @@ Relevant Databases:
 ## Genome Browsers
 - [Seed Viewer](https://pubseed.theseed.org/?page=OrganismSelect) | Curated genomic data for comparative genomics
 
-- [JGI GOLD](https://gold.jgi.doe.gov/) | Genomic database
+- [IslandViewer 4](https://www.pathogenomics.sfu.ca/islandviewer/) | Tool for predicting genomic islands
 
-- [IslandViewer 4](https://www.pathogenomics.sfu.ca/islandviewer/)
+- [UCSC Genome Browser](http://genome.ucsc.edu/cgi-bin/hgGateway) | General genome browser
 
-- [UCSC Genome Browser](http://genome.ucsc.edu/cgi-bin/hgGateway)
+- [Ensembl](http://useast.ensembl.org/index.html) | Vertebrate genome browser
 
-- [Ensembl](http://useast.ensembl.org/index.html)
+- [Ensembl Bacteria](http://bacteria.ensembl.org/index.html) | Bacterial genomic data
 
-- [Ensembl Bacteria](http://bacteria.ensembl.org/index.html)
+- [UCSC Archaeal Genome Browser](http://archaea.ucsc.edu/) | Archaeal genomic data 
 
-- [UCSC Archaeal Genome Browser](http://archaea.ucsc.edu/)
-
-- [Pseudomonas Genome DB](https://www.pseudomonas.com/)
+- [Pseudomonas Genome DB](https://www.pseudomonas.com/) | Browses pseudomonas genome
 
 - [MicroScope: MAGE](https://mage.genoscope.cns.fr/microscope/home/index.php ) | Microbial Genome Annotation & Analysis Platform
 
 
 ## Phylogeny Tools
-- [NGPhylogeny.fr](https://ngphylogeny.fr/) | Generates phylogenetic trees
-    - [Phylogeny.fr](http://phylogeny.lirmm.fr/phylo_cgi/index.cgi ) |Previous version
+Generates phylogenetic trees
+
+- [NGPhylogeny.fr](https://ngphylogeny.fr/)
+    - [Phylogeny.fr](http://phylogeny.lirmm.fr/phylo_cgi/index.cgi) | Previous version
 
 - [Simple Phylogeny](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/)
 
@@ -270,35 +278,35 @@ Tools and packages for conducting metagenomic analysis
 
 - [MicrobiomeAnalyst](https://www.microbiomeanalyst.ca/ ) | Statistical software for analyzing metagenomic data
 
-- [DADA2](https://benjjneb.github.io/dada2/)
+- [DADA2](https://benjjneb.github.io/dada2/) | Denoising package for eliminating spurious reads
 
-- [Mothur](https://mothur.org/)
+- [Mothur](https://mothur.org/) | Denoising package for filtering false reads
 
-- [Qiime2](https://qiime2.org/)
+- [Qiime2](https://qiime2.org/) | Suite of tools for metagenomic data processing and analysis
 
 ## Conversion Software
 Useful tools for converting different between different filetypes
 
 - [RNAComposer](https://rnacomposer.cs.put.poznan.pl/tools;jsessionid=945AA52BC80AD4C9A009D898D83F51CB ) | Converts RNA structure files between different formats
 
-- [EMBOSS Seqret](https://www.ebi.ac.uk/Tools/sfc/emboss_seqret/)
+- [EMBOSS Seqret](https://www.ebi.ac.uk/Tools/sfc/emboss_seqret/) | Tool for reformatting sequence filetypes
 
 
 
 ## Forums
 Helpful Forums for bioinformatics discussion
 
-- [Biostars](https://www.biostars.org/t/Forum/)
+- [Biostars](https://www.biostars.org/t/Forum/) | General bioinformatics forum
 
-- [SEQanswers](https://www.seqanswers.com/forum/bioinformatics/bioinformatics-aa)
+- [SEQanswers](https://www.seqanswers.com/forum/bioinformatics/bioinformatics-aa) | Sequencing centric forum 
 
-- [Bioinformatics.org](http://www.bioinformatics.org/forum/forum.php?forum_id=1300&et=0)
+- [Bioinformatics.org](http://www.bioinformatics.org/forum/forum.php?forum_id=1300&et=0) | General bioinformatics forum
 
-- [Stack Overflow](https://stackoverflow.com/)
+- [Stack Overflow](https://stackoverflow.com/) | General programming forum
 
 - [OmicsForum](https://omicsforum.ca/ ) | Community for various analysis tools related to metabolomics, metagenomics, proteomics, and more
 
-- [QIIME2 Forum](https://forum.qiime2.org/)
+- [QIIME2 Forum](https://forum.qiime2.org/) | Forum for the QIIME2 platform
 
 
 ## Old/Decommissioned Databases & Tools
@@ -309,4 +317,4 @@ Helpful Forums for bioinformatics discussion
 
 - [RNAmmer 1.2 Server](http://www.cbs.dtu.dk/services/RNAmmer/) | Identified related sequences to ribosomal subunits
 
-- [GeneBee Motifs](http://www.genebee.msu.su/services/dhm/advanced.html) |  
+- [GeneBee Motifs](http://www.genebee.msu.su/services/dhm/advanced.html) | Program for identifying motifs within a sequence
