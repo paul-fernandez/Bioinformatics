@@ -54,9 +54,10 @@ Miscellaneous
 
 - [Database Commons](https://ngdc.cncb.ac.cn/databasecommons/) | Curated catalog of biological databases
 
-## Webtool Platforms
+## Tool Platforms
 Suites of bioinformatic tools
 
+Webtools
 - [CoGe](https://genomevolution.org/coge/) 
 
 - [MPI Bioinformatics Toolkit](https://toolkit.tuebingen.mpg.de/) 
@@ -70,6 +71,9 @@ Suites of bioinformatic tools
 - [SeWeR](https://www.bioinformatics.org/sewer/)
 
 - [Prabi](https://npsa-prabi.ibcp.fr/cgi-bin/npsa_automat.pl?page=/NPSA/npsa_server.html)
+
+Local Software
+- [UGene](http://ugene.net/)
 
 ## Sequence Alignment Tools
 Positions various sequences with similar portions in line with one another to observe possible homology
@@ -291,8 +295,6 @@ Useful tools for converting different between different filetypes
 
 - [EMBOSS Seqret](https://www.ebi.ac.uk/Tools/sfc/emboss_seqret/) | Tool for reformatting sequence filetypes
 
-
-
 ## Forums
 Helpful Forums for bioinformatics discussion
 
@@ -307,7 +309,6 @@ Helpful Forums for bioinformatics discussion
 - [OmicsForum](https://omicsforum.ca/ ) | Community for various analysis tools related to metabolomics, metagenomics, proteomics, and more
 
 - [QIIME2 Forum](https://forum.qiime2.org/) | Forum for the QIIME2 platform
-
 
 ## Old/Decommissioned Databases & Tools
 
