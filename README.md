@@ -55,8 +55,6 @@ Miscellaneous
 - [Database Commons](https://ngdc.cncb.ac.cn/databasecommons/) | Curated catalog of biological databases
 
 ## Tool Platforms
-Suites of bioinformatic tools
-
 Webtools
 - [CoGe](https://genomevolution.org/coge/) 
 
