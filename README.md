@@ -22,6 +22,16 @@ Fundamentals
 
 - [BioCyc](https://biocyc.org) | Collection of pathway & genomic databases for model organisms
 
+- [The Human Protein Atlas](https://www.proteinatlas.org/)
+
+- [IntAct](https://www.ebi.ac.uk/intact/search?query=ENSG00000126070)
+
+- [RNAcentral](https://rnacentral.org/)
+
+- [GeneCards](https://www.genecards.org/)
+
+- [miRNA](https://www.mirbase.org/)
+
 Aging
 - [Aging Circadian Database](https://circaage.shinyapps.io/circaage/) | Contains circadian gene expression data data from various ages and tissues
 
@@ -69,6 +79,10 @@ Webtools
 - [SeWeR](https://www.bioinformatics.org/sewer/)
 
 - [Prabi](https://npsa-prabi.ibcp.fr/cgi-bin/npsa_automat.pl?page=/NPSA/npsa_server.html)
+
+- [Levin Lab Tools](https://drmichaellevin.org/resources/software.html#BETSE)
+
+- [Galaxy](https://usegalaxy.org/)
 
 Local Software
 - [UGene](http://ugene.net/)
@@ -130,6 +144,12 @@ Specialized tools for scanning sequences against knowledgebase and specific func
 - [PeCoP](https://www.bioinformatics.org/pecop/) | A PSI-BLAST tool for finding persistently conserved positions
 
 - [TargetScanHuman 8.0](https://www.targetscan.org/vert_80/ ) | Searches for predicted micro RNA targets in mammals
+
+- [SRAMP](https://www.cuilab.cn/sramp)
+
+- [ShapeMapper2](https://github.com/Weeks-UNC/shapemapper2)
+
+- [RNAFramework](https://github.com/dincarnato/RNAFramework)
 
 ## Sequence Visualization & Editing
 - [WebLogo About](https://weblogo.berkeley.edu/ ) | Generates sequence logos
@@ -205,6 +225,20 @@ Group of tools for producing 2D & 3D structural data
 - [Protein Secondary Structure Tools](https://molbiol-tools.ca/Protein_secondary_structure.htm) | Group of programs for predicting protein secondary structure
 
 - [Molecular Graphics Software](https://www.rcsb.org/docs/additional-resources/molecular-graphics-software) | List of resources for visualizing macromolecules and interactions
+
+- [MGLtools](https://ccsb.scripps.edu/projects/visualization/) | Visualization tool for observing macromolecule structure
+
+- [RNAFramework](https://github.com/dincarnato/RNAFramework)
+
+- [DeepFoldRNA](https://github.com/robpearc/DeepFoldRNA)
+
+- [Amber](http://ambermd.org/index.php)
+
+- [MxFold2](https://github.com/mxfold/mxfold2)
+
+- [ViennaRNA](https://www.tbi.univie.ac.at/RNA/)
+
+- [Samson](https://www.samson-connect.net/)
 
 Relevant Databases:
 - [Alphafold](https://alphafold.ebi.ac.uk/)
@@ -322,3 +356,13 @@ Helpful Forums for bioinformatics discussion
 - [RNAmmer 1.2 Server](http://www.cbs.dtu.dk/services/RNAmmer/) | Identified related sequences to ribosomal subunits
 
 - [GeneBee Motifs](http://www.genebee.msu.su/services/dhm/advanced.html) | Program for identifying motifs within a sequence
+
+
+
+
+
+Find Place For
+
+https://guides.lib.berkeley.edu/bioinformatics
+
+https://en.wikipedia.org/wiki/List_of_open-source_bioinformatics_software
