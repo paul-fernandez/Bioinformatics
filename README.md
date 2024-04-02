@@ -60,25 +60,23 @@
 <details><summary><b><a href="https://bit.cs.tum.de/resources-data/resources/">GrimmLab</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="http://quinlanlab.org/software.html">Quinlan Lab</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 
-</ul><h2 id="sequence-alignment-tools">Sequence Alignment Tools</h2>
-<p>Positions various sequences with similar portions in line with one another to observe possible homology</p><h3 id="two-sequence-alignment-tools">Two Sequence Alignment Tools</h3><ul>
+</ul><h2 id="sequence-alignment-tools">Sequence Comparison Tools</h2>
+<p>Positions various sequences with similar portions in line with one another to observe possible homology</p>
+<h3 id="two-sequence-alignment-tools">Two Sequence Alignment Tools</h3><ul>
 <details><summary><b><a href="http://www.bioinformatics.org/sms2/pairwise_align_dna.html">Pairwise Align DNA</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="http://www.bioinformatics.org/sms2/pairwise_align_protein.html">Pairwise Align Protein</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://proteininformationresource.org/pirwww/search/pairwise.shtml">PIR Pairwise Alignment</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://www.ebi.ac.uk/Tools/psa/lalign/">LALIGN</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-
 </ul><h3 id="multiple-sequence-alignment-tools">Multiple Sequence Alignment Tools</h3><ul>
 <details><summary><b><a href="https://www.ebi.ac.uk/Tools/msa/clustalo/">Clustal Omega</a></b> $^{\color{#3BBB27}\textsf{web}}$ | <br></summary><code></code></details>
 <details><summary><b><a href="http://multalin.toulouse.inra.fr/multalin/cgi-bin/multalin.pl">MultAlin</a></b> $^{\color{#3BBB27}\textsf{web}}$ | <br></summary><code></code></details>
 <details><summary><b><a href="http://tcoffee.crg.cat/apps/tcoffee/result?rid=24cdc9c7">T-Coffee</a></b> $^{\color{#3BBB27}\textsf{web}}$ | <br></summary><code></code></details>
 <details><summary><b><a href="https://www.ebi.ac.uk/Tools/msa/">EMBL-EBI MSA Tools</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://www.bioinformatics.org/msareveal/index2.html">MSAReveal</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-
-</ul><h2 id="dotplot-generators">Dotplot Generators</h2>
+</ul><h3 id="dotplot-generators">Dotplot Generators</h2>
 <p>Produces dot plots for comparing sequences</p><ul>
 <details><summary><b><a href="https://dotlet.vital-it.ch/">Dotlet JS</a></b> $^{\color{#3BBB27}\textsf{web}}$ | <br></summary><code></code></details>
 <details><summary><b><a href="https://www.bioinformatics.nl/cgi-bin/emboss/dotmatcher">Dotmatcher</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-
 </ul><h3 id="genome-comparison">Genome Comparison</h3><ul>
 <details><summary><b><a href="https://genomevolution.org/CoGe/SynMap.pl">CoGe: SynMap</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://genomevolution.org/coge/SynMap3D.pl">CoGe: SynMap3D</a></b> $^{\color{#3BBB27}\textsf{web}}$ | <br></summary><code></code></details>
@@ -109,7 +107,7 @@
 <details><summary><b><a href="http://www.ebi.ac.uk/interpro/search/sequence/">InterPro</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Classifies proteins into families using predictive algorithm and has curated databases<br></summary><code></code></details>
 <details><summary><b><a href="https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi">NCBI Conserved Domain Search</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Identifies conserved domains within a sequence<br></summary><code></code></details>
 <details><summary><b><a href="http://www.softberry.com/berry.phtml?topic=index&amp;group=programs&amp;subgroup=promoter">Softberry Tools</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Suite of tools for scanning for motifs and domains<br></summary><code></code></details>
-<details><summary><b><a href="https://meme-suite.org/meme/index.html">Introduction MEME Suite</a></b> $^{\color{#3BBB27}\textsf{web}}$ | A collection of motif-based analysis tools<br></summary><code></code></details>
+<details><summary><b><a href="https://meme-suite.org/meme/index.html">Multiple Em for Motif Elicitation (MEME) Suite</a></b> $^{\color{#3BBB27}\textsf{web}}$ | A collection of motif-based analysis tools<br></summary><code></code></details>
 </ul><p>Relevant Databases:</p><ul>
 <details><summary><b><a href="https://scop.mrc-lmb.cam.ac.uk/">SCOP| Structural Classification of Proteins</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Contains detailed information concerning protein folds and related structures<br></summary><code></code></details>
 <details><summary><b><a href="http://www.cathdb.info/">CATH: Protein Structure Classification Database at UCL</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Database of protein structures<br></summary><code></code></details>
