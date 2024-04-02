@@ -80,7 +80,6 @@
 </ul><h2 id="dotplot-generators">Dotplot Generators</h2>
 <p>Produces dot plots for comparing sequences</p><ul>
 <details><summary><b><a href="https://dotlet.vital-it.ch/">Dotlet JS</a></b> $^{\color{#3BBB27}\textsf{web}}$ | <br></summary><code></code></details>
-<details><summary><b><a href="https://myhits.sib.swiss/cgi-bin/dotlet">Dotlet</a></b> $^{\color{#3BBB27}\textsf{web}}$ | <br></summary><code></code></details>
 <details><summary><b><a href="https://www.bioinformatics.nl/cgi-bin/emboss/dotmatcher">Dotmatcher</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 
 </ul><h3 id="genome-comparison">Genome Comparison</h3><ul>
@@ -98,8 +97,6 @@
 <details><summary><b><a href="https://www.bioinformatics.org/pecop/">PeCoP</a></b> $^{\color{#3BBB27}\textsf{web}}$ | A PSI-BLAST tool for finding persistently conserved positions<br></summary><code></code></details>
 <details><summary><b><a href="https://www.targetscan.org/vert_80/">TargetScanHuman 8.0</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Searches for predicted micro RNA targets in mammals<br></summary><code></code></details>
 <details><summary><b><a href="https://www.cuilab.cn/sramp">SRAMP</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-<details><summary><b><a href="https://github.com/Weeks-UNC/shapemapper2">ShapeMapper2</a></b> $^{\color{#D29922}\textsf{cli}}$ |<br></summary><code></code></details>
-<details><summary><b><a href="https://github.com/dincarnato/RNAFramework">RNAFramework</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 
 </ul><h2 id="sequence-visualization-editing">Sequence Visualization &amp; Editing</h2><ul>
 <details><summary><b><a href="https://weblogo.berkeley.edu/">WebLogo About</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Generates sequence logos<br></summary><code></code></details>
@@ -148,6 +145,9 @@
 <details><summary><b><a href="https://www.tbi.univie.ac.at/RNA/">ViennaRNA</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://www.samson-connect.net/">Samson</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://rna.urmc.rochester.edu/RNAstructure.html">RNAStructure</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
+<details><summary><b><a href="https://github.com/Weeks-UNC/shapemapper2">ShapeMapper2</a></b> $^{\color{#D29922}\textsf{cli}}$ |<br></summary><code></code></details>
+<details><summary><b><a href="https://github.com/dincarnato/RNAFramework">RNAFramework</a></b> $^{\color{#D29922}\textsf{cli}}$ |<br></summary><code></code></details>
+
 </ul><p>Relevant Databases:</p><ul>
 <details><summary><b><a href="https://alphafold.ebi.ac.uk/">Alphafold</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://swissmodel.expasy.org/">Swiss-Model</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
@@ -216,6 +216,7 @@
 <details><summary><b><a href="http://xfam.org/">Xfam</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Decommissioned collection of databases for families of Proteins, DNA, and RNA CAUTION Inactive<br></summary><code></code></details>
 <details><summary><b><a href="http://www.cbs.dtu.dk/services/RNAmmer/">RNAmmer 1.2 Server</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Identified related sequences to ribosomal subunits<br></summary><code></code></details>
 <details><summary><b><a href="http://www.genebee.msu.su/services/dhm/advanced.html">GeneBee Motifs</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Program for identifying motifs within a sequence<br></summary><code></code></details>
+<details><summary><b><a href="https://myhits.sib.swiss/cgi-bin/dotlet">Dotlet</a></b> $^{\color{#3BBB27}\textsf{web}}$ | <br></summary><code></code></details>
 
 </ul><h2 id="forums">Docs</h2>
 </ul><p>General</p><ul>
