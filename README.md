@@ -129,23 +129,21 @@
 <details><summary><b><a href="https://zhanggroup.org//TM-align/">TM-align</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Algorithm for superpositioning two protein structures using residue-residue alignment<br></summary><code></code></details>
 <details><summary><b><a href="https://zhanggroup.org/US-align/">US-align</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Extended from TM-align and compares 3D structures (proteins, RNA, &amp; DNA) <br></summary><code></code></details>
 <details><summary><b><a href="https://zhanggroup.org/I-TASSER/">I-TASSER</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Agorithm to predict protein structures using a hierarchical approach<br></summary><code></code></details>
-<details><summary><b><a href="https://rna.urmc.rochester.edu/RNAstructureWeb/">RNAstructure</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Contains tools for RNA secondary structure prediction<br></summary><code></code></details>
+<details><summary><b><a href="https://rna.urmc.rochester.edu/RNAstructureWeb/">RNAstructure</a></b> $^{\color{#3BBB27}\textsf{web}}$ $^{\color{#FF0000}\textsf{app}}$ $^{\color{#D29922}\textsf{cli}}$ | Contains tools for RNA secondary structure prediction<br></summary><code></code></details>
 <details><summary><b><a href="https://server.poissonboltzmann.org/pdb2pqr">PDB2PQR</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Visualize electrostatic potential of a 3D protein<br></summary><code></code></details>
 <details><summary><b><a href="http://www.sbg.bio.ic.ac.uk/~phyre2/html/page.cgi?id=index">Phyre2</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Simple modeling software that allows for one-to-one threading<br></summary><code></code></details>
-<details><summary><b><a href="http://www.openrasmol.org/">Rasmol</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Program for molecular model visualization<br></summary><code></code></details>
+<details><summary><b><a href="http://www.openrasmol.org/">Rasmol</a></b> $^{\color{#FF0000}\textsf{app}}$ | Program for molecular model visualization<br></summary><code></code></details>
 <details><summary><b><a href="https://spdbv.unil.ch/">Swiss-PDB Viewer</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Viewing software for analyzising several protein structures at once<br></summary><code></code></details>
-<details><summary><b><a href="http://honig.c2b2.columbia.edu/grasp">GRASP</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Macromolecule visualization tool<br></summary><code></code></details>
-<details><summary><b><a href="http://www.cgl.ucsf.edu/chimera/">UCSF Chimera</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Program for visualization of molecular structures<br></summary><code></code></details>
-<details><summary><b><a href="https://pymol.org/2/">Pymol</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Software for displaying and modifying macromolecules<br></summary><code></code></details>
-<details><summary><b><a href="https://jmol.sourceforge.net/">Jmol</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Viewer for 3D chemical structures<br></summary><code></code></details>
+<details><summary><b><a href="http://honig.c2b2.columbia.edu/grasp">GRASP</a></b> $^{\color{#FF0000}\textsf{app}}$ | Macromolecule visualization tool<br></summary><code></code></details>
+<details><summary><b><a href="http://www.cgl.ucsf.edu/chimera/">UCSF Chimera</a></b> $^{\color{#FF0000}\textsf{app}}$ | Program for visualization of molecular structures<br></summary><code></code></details>
+<details><summary><b><a href="https://pymol.org/2/">Pymol</a></b> $^{\color{#FF0000}\textsf{app}}$ | Software for displaying and modifying macromolecules<br></summary><code></code></details>
+<details><summary><b><a href="https://jmol.sourceforge.net/">Jmol</a></b> $^{\color{#FF0000}\textsf{app}}$ | Viewer for 3D chemical structures<br></summary><code></code></details>
 <details><summary><b><a href="http://www.compbio.dundee.ac.uk/jpred4/index.html">Jpred4</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Protein secondary structure predictor<br></summary><code></code></details>
 <details><summary><b><a href="https://molbiol-tools.ca/Protein_secondary_structure.htm">Protein Secondary Structure Tools</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Group of programs for predicting protein secondary structure<br></summary><code></code></details>
 <details><summary><b><a href="https://www.rcsb.org/docs/additional-resources/molecular-graphics-software">Molecular Graphics Software</a></b> $^{\color{#3BBB27}\textsf{web}}$ | List of resources for visualizing macromolecules and interactions<br></summary><code></code></details>
-<details><summary><b><a href="https://ccsb.scripps.edu/projects/visualization/">MGLtools</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Visualization tool for observing macromolecule structure<br></summary><code></code></details>
-<details><summary><b><a href="https://github.com/dincarnato/RNAFramework">RNAFramework</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-<details><summary><b><a href="https://www.tbi.univie.ac.at/RNA/">ViennaRNA</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-<details><summary><b><a href="https://www.samson-connect.net/">Samson</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-<details><summary><b><a href="https://rna.urmc.rochester.edu/RNAstructure.html">RNAStructure</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
+<details><summary><b><a href="https://ccsb.scripps.edu/projects/visualization/">MGLtools</a></b> $^{\color{#FF0000}\textsf{app}}$ | Visualization tool for observing macromolecule structure<br></summary><code></code></details>
+<details><summary><b><a href="https://www.tbi.univie.ac.at/RNA/">ViennaRNA</a></b> $^{\color{#D29922}\textsf{cli}}$ |<br></summary><code></code></details>
+<details><summary><b><a href="https://www.samson-connect.net/">Samson</a></b> $^{\color{#FF0000}\textsf{app}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://github.com/Weeks-UNC/shapemapper2">ShapeMapper2</a></b> $^{\color{#D29922}\textsf{cli}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://github.com/dincarnato/RNAFramework">RNAFramework</a></b> $^{\color{#D29922}\textsf{cli}}$ |<br></summary><code></code></details>
 
