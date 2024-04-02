@@ -4,7 +4,7 @@ $\color{#3BBB27}\textsf{\Large\kern{0.2cm}\normalsize [web]}$ = web-based &nbsp;
 
 <h2 id="databases">Databases</h2>
 <p>Fundamentals</p><ul>
-<details><summary><b><a href="https://www.ncbi.nlm.nih.gov/">National Center for Biotechnology Information (NCBI)</a></b> | <code><a href="https://www.ncbi.nlm.nih.gov/guide/all/">[docs]</a></code> $\color{#3BBB27}\textsf{\Large\kern{0.2cm}\normalsize [web]}$ | Centralized repository of biomedical & genetic data<be></summary><pre>Basic</pre></details>
+<details><summary><b><a href="https://www.ncbi.nlm.nih.gov/">National Center for Biotechnology Information (NCBI)</a></b> | $\color{#3BBB27}\textsf{\Large\kern{0.2cm}\normalsize [web]}$  | Centralized repository of biomedical & genetic data<be></summary><code><a href="https://www.ncbi.nlm.nih.gov/guide/all/">[docs]</a></code></details>
 <details><summary><b><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</b></a> | Literature database focused on biomedicine and health searches abstracts of articles with full text links<br></summary><code></code></details></b>
 <details><summary><b><a href="https://www.ncbi.nlm.nih.gov/pmc/">PubMed Central (PMC)</b></a> | Component of PubMed contains free full text articles</summary><code></code></details>
 <details><summary><b><a href="https://www.uniprot.org/">UniProt</b></a> | Database on proteins and their associated functions<br></summary><code></code></details>
