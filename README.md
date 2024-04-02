@@ -1,10 +1,11 @@
 <h1 id="bioinformatic-tool-compendium-btc-">Bioinformatic Tool Compendium (BTC)</h1>
 
-$\color{#228B22}\textsf{\Large\kern{0.2cm}\normalsize [web]}$ = web based  $\color{#FF0000}\textsf{\Large\kern{0.2cm}\normalsize [app]}$ = local install  $\color{#D29922}\textsf{\Large\kern{0.2cm}\normalsize [cli]}$ = command-line interfaced
+$\color{#3BBB27}\textsf{\Large\kern{0.2cm}\normalsize [web]}$ = web-based &nbsp;&nbsp;&nbsp;&nbsp; $\color{#FF0000}\textsf{\Large\kern{0.2cm}\normalsize [app]}$ = local install &nbsp;&nbsp;&nbsp;&nbsp; $\color{#D29922}\textsf{\Large\kern{0.2cm}\normalsize [cli]}$ = command-line
 
 <h2 id="databases">Databases</h2>
 <p>Fundamentals</p><ul>
-<details><summary><b><a href="https://www.ncbi.nlm.nih.gov/">National Center for Biotechnology Information (NCBI)</b></a> | $\color{#228B22}\textsf{\Large\kern{0.2cm}\normalsize [web]}$ | Centralized repository of biomedical & genetic data<be></summary><pre>Basic</pre></details><details><summary><b><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</b></a> | Literature database focused on biomedicine and health searches abstracts of articles with full text links<br></summary><code></code></details>
+<details><summary><b><a href="https://www.ncbi.nlm.nih.gov/">National Center for Biotechnology Information (NCBI)</a></b> | <code><a href="https://www.ncbi.nlm.nih.gov/guide/all/">[docs]</a></code> $\color{#3BBB27}\textsf{\Large\kern{0.2cm}\normalsize [web]}$ | Centralized repository of biomedical & genetic data<be></summary><pre>Basic</pre></details>
+<details><summary><b><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</b></a> | Literature database focused on biomedicine and health searches abstracts of articles with full text links<br></summary><code></code></details></b>
 <details><summary><b><a href="https://www.ncbi.nlm.nih.gov/pmc/">PubMed Central (PMC)</b></a> | Component of PubMed contains free full text articles</summary><code></code></details>
 <details><summary><b><a href="https://www.uniprot.org/">UniProt</b></a> | Database on proteins and their associated functions<br></summary><code></code></details>
 <details><summary><b><a href="https://www.genome.jp/kegg/">KEGG Database</b></a> | Biological database with entry points into metabolic pathway maps, genes, proteins, biochemical reactions, and more.<br></summary><code></code></details>
@@ -13,17 +14,17 @@ $\color{#228B22}\textsf{\Large\kern{0.2cm}\normalsize [web]}$ = web based  $\col
 <details><summary><b><a href="https://www.ebi.ac.uk/">The European Bioinformatics Institute (EMBL-EBI)</b></a> | Database with bioinformatic information and tools<br></summary><code></code></details>
 <details><summary><b><a href="https://biocyc.org">BioCyc</b></a> | Collection of pathway &amp; genomic databases for model organisms<br></summary><code></code></details>
 <details><summary><b><a href="https://www.proteinatlas.org/">The Human Protein Atlas</b></a><br></summary><code></code></details>
-<details><summary><b><a href="https://www.fpbase.org/">FPbase</b></a> | $\color{#228B22}\textsf{\Large\kern{0.2cm}\normalsize [web]}$ | Fluorescent protein database<br></summary><code></code></details>
-<details><summary><b><a href="https://www.ncbi.nlm.nih.gov/sra">Sequence Read Archive (SRA)</b></a> | $\color{#228B22}\textsf{\Large\kern{0.2cm}\normalsize [web]}$ | Largest repository of high through sequencing data<br></summary><code></code></details>
+<details><summary><b><a href="https://www.fpbase.org/">FPbase</b></a> | $\color{#3BBB27}\textsf{\Large\kern{0.2cm}\normalsize [web]}$ | Fluorescent protein database<br></summary><code></code></details>
+<details><summary><b><a href="https://www.ncbi.nlm.nih.gov/sra">Sequence Read Archive (SRA)</b></a> | $\color{#3BBB27}\textsf{\Large\kern{0.2cm}\normalsize [web]}$ | Largest repository of high through sequencing data<br></summary><code></code></details>
 <details><summary><b><a href="https://www.ebi.ac.uk/intact/home">IntAct</b></a><br></summary><code></code></details>
 <details><summary><b><a href="https://www.genecards.org/">GeneCards</b></a><br></summary><code></code></details>
 </ul><p>Structural</p><ul>
 <details><summary><b><a href="https://www.rcsb.org/">RCSB Protein Data Bank (PDB)</b></a> | Protein database with 3D structural information<br></summary><code></code></details>
 </ul><p>RNA</p><ul>
 <details><summary><b><a href="https://rnacentral.org/">RNAcentral</b></a> | The non-coding RNA sequence database<br></summary><code></code></details>
-<details><summary><b><a href="https://www.mirbase.org/">miRBase</b></a> | $\color{#228B22}\textsf{\Large\kern{0.2cm}\normalsize [web]}$ | Largest updated microRNA database <br></summary><code></code></details>
-<details><summary><b><a href="https://mirgenedb.org/">MirGeneDB</b></a> | $\color{#228B22}\textsf{\Large\kern{0.2cm}\normalsize [web]}$ | Well-annotated microRNA database<br></summary><code></code></details>
-<details><summary><b><a href="https://dianalab.e-ce.uth.gr/mited/#/"">miTED</b></a> | $\color{#228B22}\textsf{\Large\kern{0.2cm}\normalsize [web]}$ | MicroRNA Tissue Expression Database<br></summary><code></code></details>
+<details><summary><b><a href="https://www.mirbase.org/">miRBase</b></a> | $\color{#3BBB27}\textsf{\Large\kern{0.2cm}\normalsize [web]}$ | Largest updated microRNA database <br></summary><code></code></details>
+<details><summary><b><a href="https://mirgenedb.org/">MirGeneDB</b></a> | $\color{#3BBB27}\textsf{\Large\kern{0.2cm}\normalsize [web]}$ | Well-annotated microRNA database<br></summary><code></code></details>
+<details><summary><b><a href="https://dianalab.e-ce.uth.gr/mited/#/"">miTED</b></a> | $\color{#3BBB27}\textsf{\Large\kern{0.2cm}\normalsize [web]}$ | MicroRNA Tissue Expression Database<br></summary><code></code></details>
 </ul><p>Aging</p><ul>
 <details><summary><b><a href="https://circaage.shinyapps.io/circaage/">Aging Circadian Database</b></a> | Contains circadian gene expression data data from various ages and tissues<br></summary><code></code></details>
 <details><summary><b><a href="https://ngdc.cncb.ac.cn/aging/index">Aging Atlas</b></a> | Collection of gene expression data related to the aging process<br></summary><code></code></details>
