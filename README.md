@@ -23,28 +23,26 @@
 <details><summary><b><a href="https://www.mirbase.org/">miRBase</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Largest updated microRNA database <br></summary><code></code></details>
 <details><summary><b><a href="https://mirgenedb.org/">MirGeneDB</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Well-annotated microRNA database<br></summary><code></code></details>
 <details><summary><b><a href="https://dianalab.e-ce.uth.gr/mited/#/"">miTED</a></b> $^{\color{#3BBB27}\textsf{web}}$ | MicroRNA Tissue Expression Database<br></summary><code></code></details>
-</ul><p>Aging</p><ul>
-<details><summary><b><a href="https://circaage.shinyapps.io/circaage/">Aging Circadian Database</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Contains circadian gene expression data data from various ages and tissues<br></summary><code></code></details>
-<details><summary><b><a href="https://ngdc.cncb.ac.cn/aging/index">Aging Atlas</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Collection of gene expression data related to the aging process<br></summary><code></code></details>
-</ul><p>circRNAs</p><ul>
 <details><summary><b><a href="http://www.circbase.org/">circBase</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Circular RNA database<br></summary><code></code></details>
 <details><summary><b><a href="http://www.circbank.cn/index.html">circBank</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Circular RNA database<br></summary><code></code></details>
-</ul><p>Species Specific</p><ul>
+<details><summary><b><a href="http://lowelab.ucsc.edu/GtRNAdb/">Genomic tRNA Database</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Database of automated annotated tRNA gene predictions using tRNAscan-SE<br></summary><code></code></details>
+</ul><p>Longevity</p><ul>
+<details><summary><b><a href="https://circaage.shinyapps.io/circaage/">Aging Circadian Database</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Contains circadian gene expression data data from various ages and tissues<br></summary><code></code></details>
+<details><summary><b><a href="https://ngdc.cncb.ac.cn/aging/index">Aging Atlas</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Collection of gene expression data related to the aging process<br></summary><code></code></details>
+</ul><p>Taxonomic Specific</p><ul>
+<details><summary><b><a href="https://regprecise.lbl.gov/index.jsp">Regprecise</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Contains curated and propagated predictions for regulons in prokaryotic genomes<br></summary><code></code></details>
 <details><summary><b><a href="https://www.yeastgenome.org/">SGD</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Comprehensive database on <em>Saccharomyces cerevisiae</em><br></summary><code></code></details>
 <details><summary><b><a href="https://www.arabidopsis.org/">TAIR</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Contains data relevant to <em>Arabidopsis thaliana</em><br></summary><code></code></details>
 <details><summary><b><a href="https://ecocyc.org/">EcoCyc</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Curated database on genome, transcriptional regulation transporters &amp; metabolic pathways in <em>Escherichia coli</em> K-12 MG1655<br></summary><code></code></details>
 <details><summary><b><a href="https://regulondb.ccg.unam.mx/">RegulonDB Database</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Curated database on transcriptional regulation in <em>Escherichia coli</em> K-12<br></summary><code></code></details>
 </ul><p>Miscellaneous</p><ul>
 <details><summary><b><a href="https://gold.jgi.doe.gov/">JGI GOLD</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Collection of metagenomic and genomic data<br></summary><code></code></details>
-<details><summary><b><a href="http://lowelab.ucsc.edu/GtRNAdb/">Genomic tRNA Database</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Database of automated annotated tRNA gene predictions using tRNAscan-SE<br></summary><code></code></details>
-<details><summary><b><a href="https://regprecise.lbl.gov/index.jsp">Regprecise</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Contains curated and propagated predictions for regulons in prokaryotic genomes<br></summary><code></code></details>
 <details><summary><b><a href="https://www.bioinformatics.org/molvis/atlas/atlas.htm">Atlas of Macromolecules</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Database containing data on about 160 macromolecules<br></summary><code></code></details>
 <details><summary><b><a href="https://bionumbers.hms.harvard.edu/search.aspx">Bionumbers</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Describes useful number values in biology<br></summary><code></code></details>
 <details><summary><b><a href="https://ngdc.cncb.ac.cn/databasecommons/">Database Commons</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Curated catalog of biological databases<br></summary><code></code></details>
 
-
-</ul><h2 id="tool-platforms">Tool Platforms</h2>
-<p>Webtools</p><ul>
+</ul><h2 id="Tool Suites">Tool Suites</h2>
+<p>General</p><ul>
 <details><summary><b><a href="https://genomevolution.org/coge/">CoGe</a></b> $^{\color{#3BBB27}\textsf{web}}$ | <br></summary><code></code></details>
 <details><summary><b><a href="https://toolkit.tuebingen.mpg.de/">MPI Bioinformatics Toolkit</a></b> $^{\color{#3BBB27}\textsf{web}}$ | <br></summary><code></code></details>
 <details><summary><b><a href="http://www.softberry.com/">Softberry</a></b> $^{\color{#3BBB27}\textsf{web}}$ |  <br></summary><code></code></details>
@@ -52,16 +50,15 @@
 <details><summary><b><a href="http://www.bioinformatics.org/sms2/index.html">Sequence Manipulation Suite (SMS)</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://www.bioinformatics.org/sewer/">SeWeR</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://npsa-prabi.ibcp.fr/cgi-bin/npsa_automat.pl?page=/NPSA/npsa_server.html">Prabi</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-<details><summary><b><a href="https://drmichaellevin.org/resources/software.html#BETSE">Levin Lab Tools</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://usegalaxy.org/">Galaxy</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://www.neb.com/en-us/tools-and-resources/interactive-tools">NEB Tools</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://nf-co.re/rnaseq/3.14.0">RNASeq Pipeline</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-</ul><p>Lab Specific Tool Suites</p><ul>
-<details><summary><b><a href="https://bit.cs.tum.de/resources-data/resources/">GrimmLab</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-<details><summary><b><a href="http://quinlanlab.org/software.html">Quinlan Lab</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-</ul><p>Local Software</p><ul>
 <details><summary><b><a href="http://ugene.net/">UGene</a></b> $^{\color{#FF0000}\textsf{app}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://www.jalview.org/">Jalview</a></b> $^{\color{#FF0000}\textsf{app}}$ |<br></summary><code></code></details>
+</ul><p>Lab Specific</p><ul>
+<details><summary><b><a href="https://drmichaellevin.org/resources/software.html#BETSE">Levin Lab Tools</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
+<details><summary><b><a href="https://bit.cs.tum.de/resources-data/resources/">GrimmLab</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
+<details><summary><b><a href="http://quinlanlab.org/software.html">Quinlan Lab</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 
 </ul><h2 id="sequence-alignment-tools">Sequence Alignment Tools</h2>
 <p>Positions various sequences with similar portions in line with one another to observe possible homology</p><h3 id="two-sequence-alignment-tools">Two Sequence Alignment Tools</h3><ul>
