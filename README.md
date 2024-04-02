@@ -93,6 +93,12 @@
 <details><summary><b><a href="https://www.targetscan.org/vert_80/">TargetScanHuman 8.0</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Searches for predicted micro RNA targets in mammals<br></summary><code></code></details>
 <details><summary><b><a href="https://www.cuilab.cn/sramp">SRAMP</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 
+<details><summary><b><a href="https://bedtools.readthedocs.io/en/latest/index.html">bedtools</a></b> $^{\color{#D29922}\textsf{cli}}$ |<br></summary><code></code></details>
+<details><summary><b><a href="https://www.htslib.org/">samtools</a></b> $^{\color{#D29922}\textsf{cli}}$ |<br></summary><code></code></details>
+<details><summary><b><a href="https://regtools.readthedocs.io/en/latest/">regtools</a></b> $^{\color{#D29922}\textsf{cli}}$ |<br></summary><code></code></details>
+<details><summary><b><a href="https://rseqc.sourceforge.net/">RSeQC</a></b> $^{\color{#D29922}\textsf{cli}}$ | An RNA-seq Quality Control Package<br></summary><code></code></details>
+
+
 </ul><h2 id="sequence-visualization-editing">Sequence Visualization &amp; Editing</h2><ul>
 <details><summary><b><a href="https://weblogo.berkeley.edu/">WebLogo About</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Generates sequence logos<br></summary><code></code></details>
 <details><summary><b><a href="https://benchling.com/editor">Benchling</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Platform for conducting biotechnology research allowing for easy gene annotation, visualization, and more.<br></summary><code></code></details>
@@ -169,10 +175,10 @@
 
 </ul><h2 id="phylogeny-tools">Phylogeny Tools</h2>
 <p>Generates phylogenetic trees</p><ul>
-<details><summary><b><a href="https://ngphylogeny.fr/">NGPhylogeny.fr</a></b> $^{\color{#3BBB27}\textsf{web}}$ |</p><ul><li><a href="http://phylogeny.lirmm.fr/phylo_cgi/index.cgi">Phylogeny.fr</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Previous version</li></ul></li>
+<details><summary><b><a href="https://ngphylogeny.fr/">NGPhylogeny.fr</a></b> $^{\color{#3BBB27}\textsf{web}}$ |</p><ul><li><b><a href="http://phylogeny.lirmm.fr/phylo_cgi/index.cgi">Phylogeny.fr</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Previous version</li></ul></li>
 <details><summary><b><a href="https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/">Simple Phylogeny</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-<details><summary><b><a href="https://doua.prabi.fr/software/seaview">SeaView</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-<details><summary><b><a href="https://www.megasoftware.net/">MEGA 11</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
+<details><summary><b><a href="https://doua.prabi.fr/software/seaview">SeaView</a></b> $^{\color{#FF0000}\textsf{app}}$ |<br></summary><code></code></details>
+<details><summary><b><a href="https://www.megasoftware.net/">MEGA 11</a></b> $^{\color{#FF0000}\textsf{app}}$ |<br></summary><code></code></details>
 
 </ul><h2 id="protein-analysis-tools">Protein Analysis Tools</h2><ul>
 <details><summary><b><a href="https://phobius.sbc.su.se/">Phobius</a></b> $^{\color{#3BBB27}\textsf{web}}$ | <br></summary><code></code></details>
@@ -189,8 +195,8 @@
 <p>Tools and packages for conducting metagenomic analysis</p><ul>
 <details><summary><b><a href="https://www.microbiomeanalyst.ca/">MicrobiomeAnalyst</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Statistical software for analyzing metagenomic data<br></summary><code></code></details>
 <details><summary><b><a href="https://benjjneb.github.io/dada2/">DADA2</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Denoising package for eliminating spurious reads<br></summary><code></code></details>
-<details><summary><b><a href="https://mothur.org/">Mothur</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Denoising package for filtering false reads<br></summary><code></code></details>
-<details><summary><b><a href="https://qiime2.org/">Qiime2</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Suite of tools for metagenomic data processing and analysis<br></summary><code></code></details>
+<details><summary><b><a href="https://mothur.org/">Mothur</a></b> $^{\color{#D29922}\textsf{cli}}$ | Denoising package for filtering false reads<br></summary><code></code></details>
+<details><summary><b><a href="https://qiime2.org/">Qiime2</a></b> $^{\color{#D29922}\textsf{cli}}$ | Suite of tools for metagenomic data processing and analysis<br></summary><code></code></details>
 
 </ul><h2 id="conversion-software">Conversion Software</h2>
 <p>Useful tools for converting different between different filetypes</p><ul>
@@ -217,21 +223,17 @@
 </ul><p>General</p><ul>
 <details><summary><b><a href="https://www.python.org/doc/">Python</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://daler.github.io/pybedtools/index.html">PyBedtools</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
+
+</ul><h2 id="Uncategorized">Uncategorized</h2>
+<details><summary><b><a href="https://samtools.github.io/hts-specs/SAMv1.pdf">Samtools</a></b> $^{\color{#D29922}\textsf{cli}}$ |<br></summary><code></code></details>
+
 </ul><p>SLURM</p><ul>
 <details><summary><b><a href="https://help.rc.ufl.edu/doc/UFRC_Help_and_Documentation">UF Research Computing Documentation</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://slurm.schedmd.com/documentation.html">Official SLURM Documentation</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
+
 </ul><p>BenchtopCloning Guides</p><ul>
 <details><summary><b><a href="https://blog.addgene.org/plasmids-101-cre-lox">addgene Cre-lox</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 
-</ul><h2 id="forums">Commandline Tools</h2>
-</ul><p>General</p><ul>
-<details><summary><b><a href="https://bedtools.readthedocs.io/en/latest/index.html">bedtools</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-<details><summary><b><a href="https://www.htslib.org/">samtools</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-<details><summary><b><a href="https://regtools.readthedocs.io/en/latest/">regtools</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-<details><summary><b><a href="https://rseqc.sourceforge.net/">RSeQC</a></b> $^{\color{#3BBB27}\textsf{web}}$ | An RNA-seq Quality Control Package<br></summary><code></code></details>
-</ul><p>Docs</p><ul>
-<details><summary><b><a href="https://samtools.github.io/hts-specs/SAMv1.pdf">Samtools</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-</ul><p>Uncategorized</p><ul>
 <details><summary><b><a href="https://www.ncbi.nlm.nih.gov/geo/">Gene Expression Omnibus (GEO)</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://maayanlab.cloud/Harmonizome/">Harmonizome</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://maayanlab.cloud/Enrichr/">Enrichr</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
