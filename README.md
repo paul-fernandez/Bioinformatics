@@ -1,5 +1,5 @@
 <h1 align="center";id="bioinformatic-tool-compendium-btc-">Bioinformatic Tool Compendium (BTC)</h1>
-<p align="center">$^{\color{#3BBB27}\\textsf{web}}$ <sup>= web-based</sup> &nbsp;&nbsp;&nbsp;&nbsp; $^{\color{#FF0000}\textsf{app}}$ <sup>= local install</sup> &nbsp;&nbsp;&nbsp;&nbsp; $^{\color{#D29922}\textsf{cli}}$ <sup>= command-line</sup></p>
+<p align="center">$^{\color{#3BBB27}\textsf{web}}$ <sup>= web-based</sup> &nbsp;&nbsp;&nbsp;&nbsp; $^{\color{#FF0000}\textsf{app}}$ <sup>= local install</sup> &nbsp;&nbsp;&nbsp;&nbsp; $^{\color{#D29922}\textsf{cli}}$ <sup>= command-line</sup></p>
 <h2 id="databases">Databases</h2>
 <p>Fundamentals</p><ul>
 <details><summary><b><a href="https://www.ncbi.nlm.nih.gov/">National Center for Biotechnology Information (NCBI)</a></b> $^{\color{#3BBB27}\textsf{web}}$ | <code><a href="https://www.ncbi.nlm.nih.gov/guide/all/">docs</a></code> | Centralized repository of biomedical & genetic data<be></summary></details>
@@ -60,8 +60,8 @@
 <details><summary><b><a href="https://bit.cs.tum.de/resources-data/resources/">GrimmLab</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="http://quinlanlab.org/software.html">Quinlan Lab</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 </ul><p>Local Software</p><ul>
-<details><summary><b><a href="http://ugene.net/">UGene</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-<details><summary><b><a href="https://www.jalview.org/">Jalview</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
+<details><summary><b><a href="http://ugene.net/">UGene</a></b> $^{\color{#FF0000}\textsf{app}}$ |<br></summary><code></code></details>
+<details><summary><b><a href="https://www.jalview.org/">Jalview</a></b> $^{\color{#FF0000}\textsf{app}}$ |<br></summary><code></code></details>
 
 </ul><h2 id="sequence-alignment-tools">Sequence Alignment Tools</h2>
 <p>Positions various sequences with similar portions in line with one another to observe possible homology</p><h3 id="two-sequence-alignment-tools">Two Sequence Alignment Tools</h3><ul>
@@ -98,7 +98,7 @@
 <details><summary><b><a href="https://www.bioinformatics.org/pecop/">PeCoP</a></b> $^{\color{#3BBB27}\textsf{web}}$ | A PSI-BLAST tool for finding persistently conserved positions<br></summary><code></code></details>
 <details><summary><b><a href="https://www.targetscan.org/vert_80/">TargetScanHuman 8.0</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Searches for predicted micro RNA targets in mammals<br></summary><code></code></details>
 <details><summary><b><a href="https://www.cuilab.cn/sramp">SRAMP</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
-<details><summary><b><a href="https://github.com/Weeks-UNC/shapemapper2">ShapeMapper2</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
+<details><summary><b><a href="https://github.com/Weeks-UNC/shapemapper2">ShapeMapper2</a></b> $^{\color{#D29922}\textsf{cli}}$ |<br></summary><code></code></details>
 <details><summary><b><a href="https://github.com/dincarnato/RNAFramework">RNAFramework</a></b> $^{\color{#3BBB27}\textsf{web}}$ |<br></summary><code></code></details>
 
 </ul><h2 id="sequence-visualization-editing">Sequence Visualization &amp; Editing</h2><ul>
