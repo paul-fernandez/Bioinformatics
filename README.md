@@ -122,8 +122,8 @@
 
 </ul><h2 id="structure-visualization">Structure Visualization</h2>
 <p>Group of tools for producing 2D &amp; 3D structural data</p><ul>
-
 <details><summary><b><a href="https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb">AlphaFold2</a></b> $^{\color{#3BBB27}\textsf{web}}$ | <br></summary><code></code></details>
+<details><summary><b><a href="https://golgi.sandbox.google.com/about">AlphaFold3</a></b> $^{\color{#3BBB27}\textsf{web}}$ | <br></summary><code></code></details>
 <details><summary><b><a href="https://swissmodel.expasy.org/interactive">Swiss-Model</a></b> $^{\color{#3BBB27}\textsf{web}}$ | 3D protein modeling with similar experimental and predicted models<br></summary><code></code></details>
 <details><summary><b><a href="https://wlab.ethz.ch/protter/start/">Protter interactive protein feature visualization</a></b> $^{\color{#3BBB27}\textsf{web}}$ | 2D protein visualizing tool of polypeptide sequence and predicted cellular location<br></summary><code></code></details>
 <details><summary><b><a href="https://www.ncbi.nlm.nih.gov/Structure/icn3d/full.html">iCn3D: Web-based 3D Structure Viewer</a></b> $^{\color{#3BBB27}\textsf{web}}$ | Loads PDB files and generates 3D structures <br></summary><code></code></details>
